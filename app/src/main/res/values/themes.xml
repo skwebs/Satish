@@ -8,8 +8,9 @@
     <style name="Theme.Satish" parent="Base.Theme.Satish" />
 
     <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">@color/yellow</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/sks288</item>
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash</item>
         <item name="postSplashScreenTheme">@style/Base.Theme.Satish</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
     </style>
 </resources>
