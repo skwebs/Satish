@@ -1,11 +1,8 @@
 package com.anshumemorial.satish
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
-import android.view.ViewTreeObserver.OnPreDrawListener
+import androidx.appcompat.app.AppCompatActivity
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
-import kotlin.properties.Delegates
 
 class MainActivity : AppCompatActivity() {
 
